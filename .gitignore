@@ -1,0 +1,5 @@
+.vscode
+vb-tool/node_modules
+vb-tool-frontend/node_modules
+vb-tool/.*.swp
+vb-tool-frontend/.*.swp
